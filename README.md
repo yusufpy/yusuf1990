@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yusuf1990
 - 👀 I’m interested in data science/machine learning field
-- 🌱 I’m currently learning different methods for creating models with different algorithm
-- 😍 I’m open to any reasonable challenge that will help my career
+- 🌱 I have vast experience with different algorithms e.g Tensorflow
+- 😍 I’m open for data science/machine learning role
 - 📫 You can reach me via Jimohyusufolatunji4@gmail.com or 08052375459
